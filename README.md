@@ -1,4 +1,4 @@
-VisitorList Data Structure
+VisitorMap Data Structure
 ==========================
 
 A data structure for storing a set of keys, each with a set of links; keeping in memory whether those
